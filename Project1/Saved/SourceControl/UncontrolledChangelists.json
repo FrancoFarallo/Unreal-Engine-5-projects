@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/BP_Projectile.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/BP_Cylinder.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/BP_Box.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/ELLEVEL/ELMAPA.umap",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/ELLEVEL/Mapa1.umap",
+				"D:/Franco Drive/1 Estudios/Proyecto Unreal/Proyectos Iniciales/Project1/Content/ELLEVEL/BP_Projectile.uasset"
+			]
+		}
+	]
+}
